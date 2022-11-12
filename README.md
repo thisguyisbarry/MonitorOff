@@ -8,3 +8,5 @@ Further work to investigate:
 I want to see if I can make windows ignore inputs in general. Monitors will wake, but go right back into standby so you may see them go back into standby.
 
 Also just the sleep delay seems a little inefficient so I'll look into what can change there.
+
+If anyone is feeling extra committed, a simple gui to change which key input would be cool. 
