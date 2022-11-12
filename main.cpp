@@ -1,6 +1,3 @@
-// This programme will continuously read for input, 
-// and perform actions based on that input (or do nothing!)
-
 #define WM_SYSCOMMAND                   0x0112
 
 #include <iostream>
